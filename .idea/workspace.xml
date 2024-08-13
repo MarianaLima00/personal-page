@@ -6,6 +6,7 @@
   <component name="ChangeListManager">
     <list default="true" id="ec03f723-e85f-41dd-98ef-04f963862d25" name="Changes" comment="primeira versão do site">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/INDEX.html" beforeDir="false" afterPath="$PROJECT_DIR$/templates/INDEX.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -101,7 +102,23 @@
       <option name="project" value="LOCAL" />
       <updated>1723548081212</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="primeira versão do site">
+      <option name="closed" value="true" />
+      <created>1723548549232</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1723548549232</updated>
+    </task>
+    <task id="LOCAL-00004" summary="primeira versão do site">
+      <option name="closed" value="true" />
+      <created>1723549114483</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1723549114483</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
