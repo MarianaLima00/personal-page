@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ec03f723-e85f-41dd-98ef-04f963862d25" name="Changes" comment="">
+    <list default="true" id="ec03f723-e85f-41dd-98ef-04f963862d25" name="Changes" comment="primeira versão do site">
       <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
@@ -42,6 +42,7 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "DefaultHtmlFileTemplate": "HTML File",
+    "Python.main.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "main"
   }
@@ -91,6 +92,19 @@
       <option name="presentableId" value="Default" />
       <updated>1723546792452</updated>
     </task>
+    <task id="LOCAL-00001" summary="primeira versão do site">
+      <option name="closed" value="true" />
+      <created>1723547756722</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1723547756722</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="primeira versão do site" />
+    <option name="LAST_COMMIT_MESSAGE" value="primeira versão do site" />
   </component>
 </project>
